@@ -1,1 +1,2 @@
-# server-setting
+# setting-template
+to intesett
